@@ -38,6 +38,7 @@ div img {
 
 [class*="col-"]{
 	margin-left: 4%;
+	flex: 0 0 92%;
 }
 
 .col-1-2,
